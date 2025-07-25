@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Asmita Shrestha</h1>
-<h3 align="center">A passionate Computer Engineer from Nepal</h3>
+<h3 align="center">Tech enthusiast & Computer Engineering undergrad from Nepa</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmitasht&label=Profile%20views&color=0e75b6&style=flat" alt="asmitasht" /> </p>
